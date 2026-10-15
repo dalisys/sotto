@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:sotto}",
+            "name": "Debug Sotto",
+            "target": "Sotto",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Sotto"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:sotto}",
+            "name": "Release Sotto",
+            "target": "Sotto",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Sotto"
+        }
+    ]
+}
