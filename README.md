@@ -4,6 +4,8 @@ Sotto types what you say on your Mac. A small bar floats over your other apps. S
 
 You need an Apple Silicon Mac on macOS 14 or later.
 
+![Sotto](docs/sotto.png)
+
 ## Install
 
 There is no App Store build. Install Sotto by building it on your Mac.
